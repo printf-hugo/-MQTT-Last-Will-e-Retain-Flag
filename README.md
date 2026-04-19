@@ -1,4 +1,4 @@
-# MQTT-Last-Will-e-Retain-Flag
+# MQTT-Last Will e Retain Flag
 Implementação simples dos conceitos de LWT e Retain Flag
 
 # O que é e como funciona:
